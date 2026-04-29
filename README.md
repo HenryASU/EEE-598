@@ -150,7 +150,3 @@ Each configuration generated 10,000 samples for evaluation.
 * Sampling and training were executed on Sol HPC.
 * Evaluation (FID/IS) was performed using generated PNG outputs.
 
-
-드립니다.
-
-필요하시면 발표용 버전으로 더 압축해 드릴 수도 있습니다.
